@@ -2,6 +2,7 @@
 
 Implementation of Wasserstein Globalness, a method to quantify the *globalness* of an explainer based on the distribution of its explanations over a dataset.
 
+![Image](https://github.com/davinhill/WassersteinGlobalness/blob/main/Figures/fig1.png?raw=true)
 
 For more details, please see our full paper:
 
@@ -9,13 +10,6 @@ For more details, please see our full paper:
 Davin Hill*, Josh Bone*, Aria Masoomi, Max Torop, Jennifer Dy  
 *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS) 2025*  
 [[Paper]](https://arxiv.org/pdf/2411.01126)
-
-<!-- # Examples
-We have an [example implementation](https://github.com/davinhill/BivariateShapley/blob/main/Examples/example1_sentimentanalysis.ipynb) for a toy dataset.
-
-To use GPEC with explainer, you need ... packages.
-
--->
 
 ## Tutorial and Examples
 **Under Construction**: Will be updated by the AISTATS conference in May 2025.
