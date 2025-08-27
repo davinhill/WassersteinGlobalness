@@ -11,8 +11,8 @@ Davin Hill*, Josh Bone*, Aria Masoomi, Max Torop, Jennifer Dy
 *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS) 2025*  
 [[Paper]](https://arxiv.org/pdf/2411.01126)
 
-## Tutorial and Examples
-**Under Construction**: Will be updated by the AISTATS conference in May 2025.
+## Example
+The notebook Example/cifar10_example.ipynb calculates globalness for a set of precalculated explanations.
 
 
 ## Implementation
